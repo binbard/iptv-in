@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="IND - Hindi Music Radio" tvg-logo="https://picsum.photos/200" group-title="INDIAN",Hindi Music Radio
+http://5.196.56.208:8308/listen.pls?sid=1
+#EXTINF:-1 tvg-ID="" tvg-name="IND - iWiFM" tvg-logo="https://picsum.photos/200" group-title="INDIAN",iWiFM
+http://94.23.23.97:29270/listen.pls?sid=1
+#EXTINF:-1 tvg-ID="" tvg-name="IND - Indifun Radio" tvg-logo="https://picsum.photos/200" group-title="INDIAN",Indifun Radio
+http://162.241.114.203:7000/listen.pls?sid=1
+#EXTINF:-1 tvg-ID="" tvg-name="IND - Hits of Bollywood" tvg-logo="https://picsum.photos/200" group-title="INDIAN",Hits of Bollywood
+http://198.50.156.92:8255/listen.pls?sid=1
+
+
