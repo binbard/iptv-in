@@ -2,8 +2,18 @@
 ### IPTV direct links
 
 ---
+### How to play
 
-Content links by type:
+1. [AIMP - for windows & android](https://aimp.ru/?do=download)
+
+2. [VLC - all platforms](https://videolan.com/vlc)
+
+3. [IPTV core - for android](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.core.launcher)
+
+4. [Many more - try find](https://google.com/search?q=iptv+players)
+---
+
+### Content links by type:
 
 > [Hindi Music](https://raw.githubusercontent.com/uti1man/iptv-in/main/hindi_music.m3u)
 
